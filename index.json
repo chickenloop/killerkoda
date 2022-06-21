@@ -14,10 +14,6 @@
     }
   ]
   },
-  "environment": {
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Ubuntu 18.04 Terminal with minikube.\u001b[m\r\n"
-  },
   "backend": {
     "imageid": "kubernetes-kubeadm-1node"
   }
